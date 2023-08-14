@@ -1,0 +1,5 @@
+--- src/sonic-swss-common
++++ src/sonic-swss-common
+@@ -1 +1 @@
+-Subproject commit be425ede57b4412c51b240f285d80a10c40fa077
++Subproject commit 7ff768a72e6fbfc02ac1052b00e49690fc9d4f1b

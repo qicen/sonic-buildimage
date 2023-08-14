@@ -1,0 +1,5 @@
+--- src/linkmgrd
++++ src/linkmgrd
+@@ -1 +1 @@
+-Subproject commit b0adf57655eb1e72316c6f90fe0a2d072322f473
++Subproject commit aa902a3a3ab346b879f9529b8fed6b5181ba057f

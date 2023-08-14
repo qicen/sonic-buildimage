@@ -1,0 +1,5 @@
+--- src/sonic-utilities
++++ src/sonic-utilities
+@@ -1 +1 @@
+-Subproject commit 5b492d546ef8a76cd90c4d15f645df1c730184ae
++Subproject commit cd882cc8cefc2a0e0c6a016d01f20eb482672c5c

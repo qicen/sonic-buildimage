@@ -1,0 +1,5 @@
+--- src/sonic-platform-common
++++ src/sonic-platform-common
+@@ -1 +1 @@
+-Subproject commit ae7049cd0ac917c7f19f82fa3a5fb1fc231eefbb
++Subproject commit c99d31164175bec5f99784bf222d91bf8f2c20c6

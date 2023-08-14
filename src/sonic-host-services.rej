@@ -1,0 +1,5 @@
+--- src/sonic-host-services
++++ src/sonic-host-services
+@@ -1 +1 @@
+-Subproject commit 6767bc7b6d45979660a653e7b837501e00d05cde
++Subproject commit 11a44d515d5a05c6df975f12e494085c548fd4f3
